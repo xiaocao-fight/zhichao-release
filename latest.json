@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4",
-  "notes": "",
+  "version": "0.3.6",
+  "notes": "修复发布流水线与旧版自动更新的清单失明问题；新增「基础名词词典」页。",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
   "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip"
 }
