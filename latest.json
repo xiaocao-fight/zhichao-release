@@ -1,6 +1,6 @@
 {
-  "version": "0.3.10",
-  "notes": "修复智能工具面板与「最近新品」浮层显示问题；便携包补齐 playwright 运行时；修复管理页白屏与打不开问题；C 类切换特效（粒子风暴、潮汐转场）；GLiNER 语义判定收窄，压掉软件泛标签噪声。",
+  "version": "0.3.11",
+  "notes": "Zhichao v0.3.11",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
   "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip"
 }
