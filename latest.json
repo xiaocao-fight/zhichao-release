@@ -1,9 +1,9 @@
 {
-  "version": "0.3.14",
-  "notes": "修复候选名称与原文不一致、车型和泛词误入推荐；按去重原文重算本库趋势，保留个人记录。",
+  "version": "0.3.15",
+  "notes": "候选名称忠于原文，过滤车型、设备碎片、泛称与榜单截词；修正分类并按去重原文重算本库趋势，保留个人记录。",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
   "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip",
-  "sha256": "2bd4c5cb56449e9c298d893459deb1761e356678d2d3f0e0038e29ddd7090764",
-  "size": 84528160,
-  "sourceCommit": "f0791c64440420380dc3e343f465ae9b7f2e2a43"
+  "sha256": "f9ec02df3ded910accc34bb9cb6f13cf0bac3faad26ee0d5fd1fe78c51c8e042",
+  "size": 84528496,
+  "sourceCommit": "c9980c08615d36c97e98157aa788eebf993139d6"
 }
