@@ -1,9 +1,9 @@
 {
-  "version": "0.3.12",
-  "notes": "Safer upgrades with rollback; complete library search; improved concept translation and source discovery; resilient pages and polling; retain two verified releases.",
+  "version": "0.3.13",
+  "notes": "隔离内容、来源采集、网站发现、状态巡检与修复队列；开源 RSS 目录增强新网站发现；改进故障修复、有界续跑和并发进度保护。",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
   "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip",
-  "sha256": "b7002127ed85aaa5c534167740618fb863db7933e2321a052a2a31fa7feb7b6d",
-  "size": 84521706,
-  "sourceCommit": "48a944b11d20dccd3b7a0daff6069cf49ba80493"
+  "sha256": "ef11f8ac887cdc6e4c4c3bf0a35915e01a5d1a1512cdef7bd9f8e61adf4a7b1e",
+  "size": 84525034,
+  "sourceCommit": "0f0b2bf600574dff67c4faf220c56d362cb8a97b"
 }
