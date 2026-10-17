@@ -1,6 +1,9 @@
 {
-  "version": "0.3.11",
-  "notes": "Zhichao v0.3.11",
+  "version": "0.3.12",
+  "notes": "Safer upgrades with rollback; complete library search; improved concept translation and source discovery; resilient pages and polling; retain two verified releases.",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
-  "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip"
+  "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip",
+  "sha256": "b7002127ed85aaa5c534167740618fb863db7933e2321a052a2a31fa7feb7b6d",
+  "size": 84521706,
+  "sourceCommit": "48a944b11d20dccd3b7a0daff6069cf49ba80493"
 }
