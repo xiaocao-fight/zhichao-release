@@ -1,9 +1,9 @@
 {
-  "version": "0.3.16",
-  "notes": "统一候选名称、类型与收录解释；新增内容纠错和固定案例发布检查；趋势改为后台分批重算，限制各网络队列资源；保留个人记录与现有界面动效。",
+  "version": "0.3.17",
+  "notes": "补齐纠错核对与回归样本导出；接入本地 Promptfoo 评测和模型原文核验；完善发布清单恢复、源码版本标签与旧版清理。",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
   "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip",
-  "sha256": "8ae9309850bffafa3f11b9ce7390f6de83bba63570ee2f8715ac4e9304ca44c4",
-  "size": 86320319,
-  "sourceCommit": "eb24a6a3902796e908955963284bef5bc7864694"
+  "sha256": "e1e7536489ba06622aadc97b4100a079e0dcfea6c6091451e6372c6219d3c2c3",
+  "size": 86324099,
+  "sourceCommit": "a37fc7257841c858a059a92e0474f0ba62ac0174"
 }
