@@ -1,9 +1,9 @@
 {
-  "version": "0.3.17",
-  "notes": "补齐纠错核对与回归样本导出；接入本地 Promptfoo 评测和模型原文核验；完善发布清单恢复、源码版本标签与旧版清理。",
+  "version": "1.0.0",
+  "notes": "知潮 1.0：从 1.0.0 起，自动打包与发布只递增补丁号；统一版本策略、来源产出率、按范围回放、每日审计与增量变化列表。",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
   "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip",
-  "sha256": "e1e7536489ba06622aadc97b4100a079e0dcfea6c6091451e6372c6219d3c2c3",
-  "size": 86324099,
-  "sourceCommit": "a37fc7257841c858a059a92e0474f0ba62ac0174"
+  "sha256": "6fd661bf275b5b3f3685f474f4606d4efd1ad1f9b9b501d694d815377c73cc1e",
+  "size": 93954578,
+  "sourceCommit": "101569004f86c088316011c9fa5e4f50c075c4ad"
 }
