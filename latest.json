@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "notes": "知潮 1.0：从 1.0.0 起，自动打包与发布只递增补丁号；统一版本策略、来源产出率、按范围回放、每日审计与增量变化列表。",
+  "version": "1.0.1",
+  "notes": "Zhichao v1.0.1",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
   "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip",
-  "sha256": "6fd661bf275b5b3f3685f474f4606d4efd1ad1f9b9b501d694d815377c73cc1e",
-  "size": 93954578,
-  "sourceCommit": "101569004f86c088316011c9fa5e4f50c075c4ad"
+  "sha256": "ab8f96aaa47af317f6beaf16169c553e74e68fd990a83fc3d1869341fa11dd03",
+  "size": 94258037,
+  "sourceCommit": "ed8b64cd3ed0893ebe56c3c6c7f5f742116e832a"
 }
