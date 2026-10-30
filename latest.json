@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "notes": "Zhichao v1.0.2",
+  "version": "1.0.3",
+  "notes": "Zhichao v1.0.3",
   "releaseUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest",
-  "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/latest/download/zhichao-windows-x64.zip",
-  "sha256": "8be2668bbbbbda2905402096003a11e00b7c25a2d105de582e6578bef3c5d9fc",
-  "size": 94893813,
-  "sourceCommit": "f71cfd011216f077c82e3643fef14a8abd982b88"
+  "downloadUrl": "https://github.com/xiaocao-fight/zhichao-release/releases/download/v1.0.3/zhichao-1.0.3-x64-setup.exe",
+  "sha256": "cd3873ac6fc31c17a7c546817b7559bf4ca87d2707e6cf2ba243fe2960182bfe",
+  "size": 73146076,
+  "sourceCommit": "be553c4f00f7bcb6a89e7666f6623439b62507a1"
 }
